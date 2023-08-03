@@ -1,0 +1,7 @@
+site_name: In.vester App
+theme:
+  name: material
+  font:
+    text: Open Sans
+extra:
+  homepage: https://in.vester.app/
